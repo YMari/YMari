@@ -27,9 +27,9 @@ My name is Yavier Mari, I'm a Computer Science and Engineering graduate from the
 ## 📊 GitHub Stats 📊
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ymari&count_private=true&theme=radical">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=YMari&theme=radical">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymari&langs_count=6&layout=compact&border&hide=scala&theme=radical">
+  <img alt="YMari's Stats" src="https://github-readme-stats.vercel.app/api?username=ymari&count_private=true&theme=radical">
+  <img alt="YMari's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=YMari&theme=radical">
+  <img alt="YMari's Stats" width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymari&langs_count=6&layout=compact&border&hide=scala&theme=radical">
 </p>
 
 ## 🔗 Links 🔗
